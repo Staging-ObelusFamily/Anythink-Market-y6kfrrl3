@@ -1,6 +1,6 @@
 {
   "name": "Anythink Development Container",
-  "image": "darwilco/dar_test_devcontainer_compose:0.0.666",
+  "image": "darwilco/dar_test_devcontainer_compose:0.0.667",
   "forwardPorts": [3000, 3001, 5433, 27017],
   "portsAttributes": {
     "3000": {
